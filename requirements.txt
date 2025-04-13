@@ -1,0 +1,25 @@
+langchain
+ipykernel
+python-dotenv
+langchain_community
+pypdf
+bs4
+langchain-unstructured
+jq
+arxiv
+pymupdf
+duckdb
+openpyxl
+unstructured
+xlrd
+pyspark
+wikipedia
+langchain-text-splitters
+langchain-openai
+tiktoken
+spacy
+nltk
+# python -m spacy download en_core_web_sm
+chromadb
+sentence_transformers
+langchain_huggingface
