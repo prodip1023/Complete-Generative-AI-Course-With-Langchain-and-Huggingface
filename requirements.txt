@@ -27,3 +27,9 @@ faiss-cpu
 langchain_chroma
 beautifulsoup4
 streamlit
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve[all]
+pydantic==1.10.13

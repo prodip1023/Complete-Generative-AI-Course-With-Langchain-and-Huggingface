@@ -34,3 +34,8 @@ Step_4:
   - CHROMADB
   - ASTRADB
   - WAVIATE
+  
+Step_5:
+# DEPLOY THE LLM APPLICATION 
+- LANGSERVE 
+  - https://python.langchain.com/docs/langserve/ 
