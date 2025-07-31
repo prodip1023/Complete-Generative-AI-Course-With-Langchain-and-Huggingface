@@ -34,3 +34,5 @@ uvicorn
 langserve[all]
 pydantic==1.10.13
 langchain_community
+arxiv
+wikipedia
